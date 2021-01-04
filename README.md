@@ -1,6 +1,6 @@
 # Introduction
 
-### 书本信息：
+### 书本信息
 
 - 书籍：深入理解ES6（Understanding ECMAScript 6）
 
@@ -10,9 +10,9 @@
 
 - 中文阅读地址：https://oshotokill.gitbooks.io/understandinges6-simplified-chinese/content/ 
 
-### 笔记信息：
+### 笔记信息
 
 本笔记仅为本人在书籍阅读过程中重点知识的记录及总结，不作他用。
 
-- gitbook地址：
-- github地址：
+- gitbook地址：https://snaillu.gitbook.io/es6/
+- github地址：https://github.com/Snail-Lu/UnderstandingES6
