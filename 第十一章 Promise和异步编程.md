@@ -81,5 +81,5 @@ promise.then(function(contents) {
 ```js
 let promise = new Promise(function(resolve, reject){
     
-});􏱝􏰼􏱋􏱝􏱖􏰅􏱙􏱖􏱝􏱞􏰾􏱛􏷈􏱌􏷉􏱛􏰿􏱘
+});
 ```
